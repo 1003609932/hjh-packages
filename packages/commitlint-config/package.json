@@ -1,0 +1,15 @@
+{
+  "name": "commitlint-config-hjh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Git规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "huangjaihui",
+  "license": "ISC",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "markdownlint-config-hjh",
+  "version": "1.0.0",
+  "description": "自定义脚手架",
+  "author": "huangjiahui",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
